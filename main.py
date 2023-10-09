@@ -72,7 +72,7 @@ def soma_key(
 def return_data(rowns: iter) -> list[Any]:
     """
       Recebe os dados.
-      ordena por CPF, agrupa por CPD,
+      ordena por CPF, agrupa por CPF,
       aplica a funcao de somar os cupons
       e retorna uma lista, com o grupo
     """
